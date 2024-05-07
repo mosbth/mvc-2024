@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.019400">
-    <testsuite name="Project Test Suite" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.019400">
-      <testsuite name="App\Dice\DiceHandTest" file="/home/mos/dbwebb-kurser/mvc/me/report/tests/Dice/DiceHandTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.017104">
-        <testcase name="testAddStubbedDices" class="App\Dice\DiceHandTest" classname="App.Dice.DiceHandTest" file="/home/mos/dbwebb-kurser/mvc/me/report/tests/Dice/DiceHandTest.php" line="15" assertions="1" time="0.017104"/>
+  <testsuite name="" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.055962">
+    <testsuite name="Project Test Suite" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.055962">
+      <testsuite name="App\Dice\DiceHandTest" file="/home/dbw/me/report/tests/Dice/DiceHandTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.049731">
+        <testcase name="testAddStubbedDices" class="App\Dice\DiceHandTest" classname="App.Dice.DiceHandTest" file="/home/dbw/me/report/tests/Dice/DiceHandTest.php" line="15" assertions="1" time="0.049731"/>
       </testsuite>
-      <testsuite name="App\Dice\DiceTest" file="/home/mos/dbwebb-kurser/mvc/me/report/tests/Dice/DiceTest.php" tests="2" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.002297">
-        <testcase name="testCreateDice" class="App\Dice\DiceTest" classname="App.Dice.DiceTest" file="/home/mos/dbwebb-kurser/mvc/me/report/tests/Dice/DiceTest.php" line="16" assertions="2" time="0.001663"/>
-        <testcase name="testStubRollDiceLastRoll" class="App\Dice\DiceTest" classname="App.Dice.DiceTest" file="/home/mos/dbwebb-kurser/mvc/me/report/tests/Dice/DiceTest.php" line="28" assertions="1" time="0.000634"/>
+      <testsuite name="App\Dice\DiceTest" file="/home/dbw/me/report/tests/Dice/DiceTest.php" tests="2" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.006231">
+        <testcase name="testCreateDice" class="App\Dice\DiceTest" classname="App.Dice.DiceTest" file="/home/dbw/me/report/tests/Dice/DiceTest.php" line="16" assertions="2" time="0.005025"/>
+        <testcase name="testStubRollDiceLastRoll" class="App\Dice\DiceTest" classname="App.Dice.DiceTest" file="/home/dbw/me/report/tests/Dice/DiceTest.php" line="28" assertions="1" time="0.001206"/>
       </testsuite>
     </testsuite>
   </testsuite>

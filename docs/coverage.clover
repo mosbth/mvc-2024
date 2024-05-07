@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1715084495">
-  <project timestamp="1715084495">
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/DiceGameController.php">
+<coverage generated="1715093949">
+  <project timestamp="1715093949">
+    <file name="/home/dbw/me/report/src/Controller/DiceGameController.php">
       <class name="App\Controller\DiceGameController" namespace="global">
         <metrics complexity="17" methods="9" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="77" coveredstatements="0" elements="86" coveredelements="0"/>
       </class>
@@ -93,7 +93,7 @@
       <line num="210" type="stmt" count="0"/>
       <metrics loc="213" ncloc="180" classes="1" methods="9" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="77" coveredstatements="0" elements="86" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/LuckyController.php">
+    <file name="/home/dbw/me/report/src/Controller/LuckyController.php">
       <class name="App\Controller\LuckyController" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="9" coveredelements="0"/>
       </class>
@@ -108,7 +108,7 @@
       <line num="26" type="stmt" count="0"/>
       <metrics loc="29" ncloc="29" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="9" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/LuckyControllerJson.php">
+    <file name="/home/dbw/me/report/src/Controller/LuckyControllerJson.php">
       <class name="App\Controller\LuckyControllerJson" namespace="global">
         <metrics complexity="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="10" coveredstatements="0" elements="11" coveredelements="0"/>
       </class>
@@ -125,7 +125,7 @@
       <line num="27" type="stmt" count="0"/>
       <metrics loc="30" ncloc="29" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="10" coveredstatements="0" elements="11" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/LuckyControllerTwig.php">
+    <file name="/home/dbw/me/report/src/Controller/LuckyControllerTwig.php">
       <class name="App\Controller\LuckyControllerTwig" namespace="global">
         <metrics complexity="3" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="10" coveredelements="0"/>
       </class>
@@ -141,7 +141,7 @@
       <line num="32" type="stmt" count="0"/>
       <metrics loc="35" ncloc="35" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="10" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/ProductController.php">
+    <file name="/home/dbw/me/report/src/Controller/ProductController.php">
       <class name="App\Controller\ProductController" namespace="global">
         <metrics complexity="11" methods="9" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="48" coveredstatements="0" elements="57" coveredelements="0"/>
       </class>
@@ -204,7 +204,7 @@
       <line num="142" type="stmt" count="0"/>
       <metrics loc="146" ncloc="142" classes="1" methods="9" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="48" coveredstatements="0" elements="57" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Controller/SessionController.php">
+    <file name="/home/dbw/me/report/src/Controller/SessionController.php">
       <class name="App\Controller\SessionController" namespace="global">
         <metrics complexity="3" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="0" elements="17" coveredelements="0"/>
       </class>
@@ -227,7 +227,7 @@
       <line num="45" type="stmt" count="0"/>
       <metrics loc="48" ncloc="48" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="0" elements="17" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Dice/Dice.php">
+    <file name="/home/dbw/me/report/src/Dice/Dice.php">
       <class name="App\Dice\Dice" namespace="global">
         <metrics complexity="4" methods="4" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="2" elements="9" coveredelements="4"/>
       </class>
@@ -242,7 +242,7 @@
       <line num="27" type="stmt" count="1"/>
       <metrics loc="30" ncloc="30" classes="1" methods="4" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="2" elements="9" coveredelements="4"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Dice/DiceGraphic.php">
+    <file name="/home/dbw/me/report/src/Dice/DiceGraphic.php">
       <class name="App\Dice\DiceGraphic" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
       </class>
@@ -252,7 +252,7 @@
       <line num="23" type="stmt" count="0"/>
       <metrics loc="26" ncloc="26" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Dice/DiceHand.php">
+    <file name="/home/dbw/me/report/src/Dice/DiceHand.php">
       <class name="App\Dice\DiceHand" namespace="global">
         <metrics complexity="10" methods="6" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="16" coveredstatements="7" elements="22" coveredelements="10"/>
       </class>
@@ -280,7 +280,7 @@
       <line num="52" type="stmt" count="0"/>
       <metrics loc="55" ncloc="55" classes="1" methods="6" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="16" coveredstatements="7" elements="22" coveredelements="10"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Entity/Product.php">
+    <file name="/home/dbw/me/report/src/Entity/Product.php">
       <class name="App\Entity\Product" namespace="global">
         <metrics complexity="5" methods="5" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="12" coveredelements="0"/>
       </class>
@@ -298,13 +298,13 @@
       <line num="48" type="stmt" count="0"/>
       <metrics loc="51" ncloc="51" classes="1" methods="5" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="12" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Kernel.php">
+    <file name="/home/dbw/me/report/src/Kernel.php">
       <class name="App\Kernel" namespace="global">
         <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
       <metrics loc="12" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <file name="/home/mos/dbwebb-kurser/mvc/me/report/src/Repository/ProductRepository.php">
+    <file name="/home/dbw/me/report/src/Repository/ProductRepository.php">
       <class name="App\Repository\ProductRepository" namespace="global">
         <metrics complexity="3" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="13" coveredstatements="0" elements="16" coveredelements="0"/>
       </class>
